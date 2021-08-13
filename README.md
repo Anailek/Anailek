@@ -52,4 +52,4 @@ const anailek = {
 
 [linkedin]: https://www.linkedin.com/in/anailek
 
-[gmail]: anailek91@gmail.com
+[gmail]: https://www.gmail.com/anailek91@gmail.com
