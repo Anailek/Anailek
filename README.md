@@ -45,11 +45,10 @@ const anailek = {
 
 [<img align="left" alt="Anailek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Anailek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Anailek | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
 [twitter]: https://twitter.com/Anailekk
 
 [linkedin]: https://www.linkedin.com/in/anailek
 
-[gmail]: https://www.gmail.com/anailek91@gmail.com
+
