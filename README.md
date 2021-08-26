@@ -47,7 +47,7 @@ const anailek = {
 [<img align="left" alt="Anailek | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 
-[gmail]: anailek91@gmail.com
+[gmail]: https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBmzpsNzLKjrTttdJgnqWcdCtZgbJqpZjTRzqgdWQJHkMfjqhCBZgcCnHtsZnrGZFVksRJF
 [linkedin]: https://www.linkedin.com/in/anailek
 
 
