@@ -44,9 +44,10 @@ const anailek = {
 ## Contact
 
 [<img align="left" alt="Anailek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[![Connect on Email](https://img.shields.io/badge/Email-Eliana%20Ruiz-bluee)](mailto:anailek91@gmail.com)
+[<img align="left" alt="Anailek | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 
+[gmail]: anailek91@gmail.com
 [linkedin]: https://www.linkedin.com/in/anailek
 
 
