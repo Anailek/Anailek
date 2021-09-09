@@ -1,7 +1,7 @@
 # Hi! i'm Anailek ✨
 
 ### Full Stack Developer
-
+looking to my first opportunity...
 
 ✨  ✨ 
 
