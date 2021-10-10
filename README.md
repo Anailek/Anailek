@@ -1,14 +1,14 @@
 # Hi! i'm Anailek ✨
 
 ### Full Stack Developer
-looking to my first opportunity...
+
 
 ✨  ✨ 
 
 ```javascript
 const anailek = {
     pronouns: "She" | "Her",
-    askMeAbout: ["web dev", "tech", "music"],
+    askMeAbout: ["diversity", "tech", "music"],
     languages: ["spanish", "english", "french"],
     technologies: {
         frontEnd: {
