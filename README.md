@@ -17,7 +17,7 @@ const anailek = {
         },
         backEnd: ["NodeJS", "Express"],
         databases: ["Sql", "postgres"],
-        extras: ["scrum", "trello", "asana", "slack", "postman", "project managment", "UX/UI"]
+        extras: ["scrum", "trello", "asana", "slack", "postman", "project management", "UX/UI"]
     }
 };
 ```
