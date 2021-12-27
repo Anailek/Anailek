@@ -13,11 +13,11 @@ const anailek = {
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
-            css: ["bootstrap", "sass", "UX/UI"]
+            css: ["bootstrap", "sass"]
         },
         backEnd: ["NodeJS", "Express"],
         databases: ["Sql", "postgres"],
-        extras: ["scrum", "trello", "slack"]
+        extras: ["scrum", "trello", "asana", "slack", "postman", "project managment", "UX/UI"]
     }
 };
 ```
