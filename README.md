@@ -5,19 +5,18 @@
 
 ✨  ✨ 
 
-```javascript
+```Javascript - Typescript
 const anailek = {
     pronouns: "She" | "Her",
     askMeAbout: ["diversity", "tech", "music"],
     languages: ["spanish", "english", "french"],
     technologies: {
-        frontEnd: {
-            js: ["React", "Redux"],
-            css: ["bootstrap", "sass"]
+        frontend: {
+            Typescript: ["React", "Redux"],
+            CSS: ["bootstrap", "MUI"]
         },
-        backEnd: ["NodeJS", "Express"],
-        databases: ["Sql", "postgres"],
-        extras: ["scrum", "trello", "asana", "slack", "postman", "project management", "UX/UI"]
+        backend: ["NodeJS", "Express"],
+        database: ["SQL", "postgres", "GraphQL"]
     }
 };
 ```
