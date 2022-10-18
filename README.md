@@ -1,4 +1,4 @@
-# Hi! i'm Eliana ✨
+# Hello ✨
 
 ### Full Stack Developer
 
@@ -16,7 +16,7 @@ const anailek = {
             CSS: ["bootstrap", "MUI"]
         },
         backend: ["NodeJS", "Express"],
-        database: ["SQL", "postgres", "GraphQL"]
+        database: ["SQL", "GraphQL"]
     }
 };
 ```
