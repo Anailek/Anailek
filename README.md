@@ -5,20 +5,8 @@
 
 ✨  ✨ 
 
-```Javascript - Typescript
-const anailek = {
-    pronouns: "She" | "Her",
-    askMeAbout: ["diversity", "tech", "music"],
-    languages: ["spanish", "english", "french"],
-    technologies: {
-        frontend: {
-            Typescript: ["React", "Redux"],
-            CSS: ["bootstrap", "MUI"]
-        },
-        backend: ["NodeJS", "Express"],
-        database: ["SQL", "GraphQL"]
-    }
-};
+```
+Javascript - React - Node JS - GraphQL - GIT - CSS - HTML - Figma
 ```
 
 
